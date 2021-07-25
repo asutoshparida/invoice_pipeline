@@ -1,0 +1,8 @@
+{
+  "steps_per_floor": 21,
+  "api_base_url": "https://old-test.chargebee.com/api/v2/invoices",
+  "auth_token": "Basic dBTlNjaGM3cUZQZzp0ZXN0X2pFMHNpWm1ZaGk1WFBrTjR6TlFrTkFOU2NoYzdxRlBn",
+  "db_file" : "/opt/sqlite-autoconf-3360000/personio.db",
+  "report_path" : "../resource/invoices/data/report_results.json",
+  "parquet_file_location": "/location/"
+}
